@@ -8,6 +8,22 @@
         "number_wallpaper": 7,
         "category": ""
     },{
+        "id": "vitage1",
+        "name": "Vitage Theme 1",
+        "number_demo": 2,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 2,
+        "category": ""
+    },{
+        "id": "vitage3",
+        "name": "Vitage Theme 2",
+        "number_demo": 2,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 2,
+        "category": ""
+    },{
         "id": "twinkle1",
         "name": "Twinkle Theme 1",
         "number_demo": 5,
@@ -110,21 +126,5 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "category": ""
-    },{
-        "id": "vitage1",
-        "name": "Vitage Theme 1",
-        "number_demo": 2,
-        "number_icon": 22,
-        "number_image": 0,
-        "number_wallpaper": 2,
-        "category": ""
-    },{
-        "id": "vitage3",
-        "name": "Vitage Theme 3",
-        "number_demo": 2,
-        "number_icon": 22,
-        "number_image": 0,
-        "number_wallpaper": 2,
         "category": ""
     }]
