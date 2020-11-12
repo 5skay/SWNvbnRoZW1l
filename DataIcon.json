@@ -1,170 +1,130 @@
 [
-  {
-    "category_id": "trend",
-    "name": "Trend",
-    "packs": [
-      {
+    {
         "id": "brown",
         "name": "Brown Theme",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "vitage1",
         "name": "Vitage Theme 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "vitage3",
         "name": "Vitage Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "twinkle1",
         "name": "Twinkle Theme 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      }
-    ]
-  },
-  {
-    "category_id": "new",
-    "name": "New",
-    "packs": [
-      {
+        "category": ""
+    },{
         "id": "twinkle2",
         "name": "Twinkle Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "metal",
         "name": "Metal Theme",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "cold",
         "name": "Cold Theme",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "catoon",
         "name": "Catoon Theme",
         "number_demo": 4,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 4,
-        "color": "#E3C7FF"
-      }
-    ]
-  },
-  {
-    "category_id": "halloween",
-    "name": "Halloween",
-    "packs": [
-      {
+        "category": ""
+    },{
         "id": "classic",
         "name": "Classic Theme",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "gold",
         "name": "Gold Theme",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "halloween1",
         "name": "Halloween Theme 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "halloween2",
         "name": "Halloween Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      }
-    ]
-  },
-  {
-    "category_id": "merry_christmas",
-    "name": "Merry Christmas",
-    "packs": [
-      {
+        "category": ""
+    },{
         "id": "halloween3",
         "name": "Halloween Theme 3",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "neon",
         "name": "Neon Theme",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "stone1",
         "name": "Stone Theme 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      },
-      {
+        "category": ""
+    },{
         "id": "stone2",
         "name": "Stone Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
-      }
-    ]
-  }
-]
+        "category": ""
+    }]
