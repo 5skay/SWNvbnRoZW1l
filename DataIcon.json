@@ -1,130 +1,170 @@
 [
-    {
+  {
+    "category_id": "trend",
+    "name": "Trend",
+    "packs": [
+      {
         "id": "brown",
         "name": "Brown Theme",
-        "number_demo": 7,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 7,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "vitage1",
         "name": "Vitage Theme 1",
-        "number_demo": 2,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 2,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "vitage3",
         "name": "Vitage Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "category": ""
-    },{
+        "color": "#E3C7FF"
+      },
+      {
         "id": "twinkle1",
         "name": "Twinkle Theme 1",
-        "number_demo": 5,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 5,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      }
+    ]
+  },
+  {
+    "category_id": "new",
+    "name": "New",
+    "packs": [
+      {
         "id": "twinkle2",
         "name": "Twinkle Theme 2",
-        "number_demo": 5,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 5,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "metal",
         "name": "Metal Theme",
-        "number_demo": 6,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 6,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "cold",
         "name": "Cold Theme",
-        "number_demo": 6,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 6,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "catoon",
         "name": "Catoon Theme",
-        "number_demo": 5,
+        "number_demo": 4,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 5,
-        "category": ""
-    },{
+        "number_wallpaper": 4,
+        "color": "#E3C7FF"
+      }
+    ]
+  },
+  {
+    "category_id": "halloween",
+    "name": "Halloween",
+    "packs": [
+      {
         "id": "classic",
         "name": "Classic Theme",
-        "number_demo": 9,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 9,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "gold",
         "name": "Gold Theme",
-        "number_demo": 5,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 5,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "halloween1",
         "name": "Halloween Theme 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "category": ""
-    },{
+        "color": "#E3C7FF"
+      },
+      {
         "id": "halloween2",
         "name": "Halloween Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "category": ""
-    },{
+        "color": "#E3C7FF"
+      }
+    ]
+  },
+  {
+    "category_id": "merry_christmas",
+    "name": "Merry Christmas",
+    "packs": [
+      {
         "id": "halloween3",
         "name": "Halloween Theme 3",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "category": ""
-    },{
+        "color": "#E3C7FF"
+      },
+      {
         "id": "neon",
         "name": "Neon Theme",
-        "number_demo": 6,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 6,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "stone1",
         "name": "Stone Theme 1",
-        "number_demo": 7,
+        "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 7,
-        "category": ""
-    },{
+        "number_wallpaper": 3,
+        "color": "#E3C7FF"
+      },
+      {
         "id": "stone2",
         "name": "Stone Theme 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "category": ""
-    }]
+        "color": "#E3C7FF"
+      }
+    ]
+  }
+]
