@@ -10,7 +10,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFECE8"
       },
       {
         "id": "vitage1",
@@ -19,7 +19,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFECE2"
       },
       {
         "id": "vitage3",
@@ -28,7 +28,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFFAE1"
       },
       {
         "id": "twinkle1",
@@ -37,7 +37,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#E8F7FF"
       }
     ]
   },
@@ -52,7 +52,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#F4EAFF"
       },
       {
         "id": "metal",
@@ -61,7 +61,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#DADADA"
       },
       {
         "id": "cold",
@@ -70,7 +70,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#E1F1FF"
       },
       {
         "id": "catoon",
@@ -79,7 +79,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 4,
-        "color": "#E3C7FF"
+        "color": "#D0DDFF"
       }
     ]
   },
@@ -94,7 +94,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFE0E0"
       },
       {
         "id": "gold",
@@ -103,7 +103,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFE0E0"
       },
       {
         "id": "halloween1",
@@ -112,7 +112,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFF6DE"
       },
       {
         "id": "halloween2",
@@ -121,7 +121,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFD5AF"
       }
     ]
   },
@@ -136,7 +136,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFECBD"
       },
       {
         "id": "neon",
@@ -145,7 +145,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#EEE1FF"
       },
       {
         "id": "stone1",
@@ -154,7 +154,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#D3EED9"
       },
       {
         "id": "stone2",
@@ -163,7 +163,7 @@
         "number_icon": 22,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#E3C7FF"
+        "color": "#FFD79B"
       }
     ]
   }
