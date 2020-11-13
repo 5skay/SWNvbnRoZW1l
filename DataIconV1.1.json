@@ -5,7 +5,7 @@
     "packs": [
       {
         "id": "brown",
-        "name": "Brown Theme",
+        "name": "Brown",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -14,7 +14,7 @@
       },
       {
         "id": "vitage1",
-        "name": "Vitage Theme 1",
+        "name": "Vitage 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -23,7 +23,7 @@
       },
       {
         "id": "vitage3",
-        "name": "Vitage Theme 2",
+        "name": "Vitage 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -32,7 +32,7 @@
       },
       {
         "id": "twinkle1",
-        "name": "Twinkle Theme 1",
+        "name": "Twinkle 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -47,7 +47,7 @@
     "packs": [
       {
         "id": "twinkle2",
-        "name": "Twinkle Theme 2",
+        "name": "Twinkle 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -56,7 +56,7 @@
       },
       {
         "id": "metal",
-        "name": "Metal Theme",
+        "name": "Metal",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -74,7 +74,7 @@
       },
       {
         "id": "catoon",
-        "name": "Catoon Theme",
+        "name": "Catoon",
         "number_demo": 4,
         "number_icon": 22,
         "number_image": 0,
@@ -89,7 +89,7 @@
     "packs": [
       {
         "id": "classic",
-        "name": "Classic Theme",
+        "name": "Classic",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -98,7 +98,7 @@
       },
       {
         "id": "gold",
-        "name": "Gold Theme",
+        "name": "Gold",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -107,7 +107,7 @@
       },
       {
         "id": "halloween1",
-        "name": "Halloween Theme 1",
+        "name": "Halloween 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -131,7 +131,7 @@
     "packs": [
       {
         "id": "halloween3",
-        "name": "Halloween Theme 3",
+        "name": "Halloween 3",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -140,7 +140,7 @@
       },
       {
         "id": "neon",
-        "name": "Neon Theme",
+        "name": "Neon",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -149,7 +149,7 @@
       },
       {
         "id": "stone1",
-        "name": "Stone Theme 1",
+        "name": "Stone 1",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -158,7 +158,7 @@
       },
       {
         "id": "stone2",
-        "name": "Stone Theme 2",
+        "name": "Stone 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
