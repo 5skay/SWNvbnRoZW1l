@@ -164,7 +164,53 @@
         "number_image": 0,
         "number_wallpaper": 3,
         "color": "#FFD79B"
+      },
+      {
+        "id": "noel1",
+        "name": "Noel 1",
+        "number_demo": 3,
+        "number_icon": 25,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD79B"
+      },
+      {
+        "id": "noel2",
+        "name": "Noel 2",
+        "number_demo": 3,
+        "number_icon": 24,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD79B"
+      },
+      {
+        "id": "noel3",
+        "name": "Noel 3",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD79B"
+      },
+      {
+        "id": "noel4",
+        "name": "Noel 4",
+        "number_demo": 3,
+        "number_icon": 20,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD79B"
+      },
+      {
+        "id": "noel5",
+        "name": "Noel 5",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD79B"
       }
+
     ]
   }
 ]
