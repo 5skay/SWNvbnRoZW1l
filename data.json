@@ -213,5 +213,106 @@
         "sort_icon": true
       }
     ]
+  },
+  {
+    "category_id": "catoon",
+    "name": "Catoon",
+    "packs": [
+      {
+        "id": "catoon",
+        "name": "Catoon",
+        "number_demo": 1,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#E8F8FF",
+        "sort_icon": true
+      },
+      {
+        "id": "basiccolor",
+        "name": "Basic Color",
+        "number_demo": 1,
+        "number_icon": 50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#D1D0FF",
+        "sort_icon": true
+      },
+      {
+        "id": "glassicon",
+        "name": "Glass Icon",
+        "number_demo": 1,
+        "number_icon":  40,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#E0E8FF",
+        "sort_icon": true
+      }
+      ,
+      {
+        "id": "catoon2",
+        "name": "Catoon 2",
+        "number_demo": 1,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#E1FFE8",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "neon",
+    "name": "Neon",
+    "packs": [
+      {
+        "id": "neon",
+        "name": "Neon",
+        "number_demo": 1,
+        "number_icon":  46,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#CDDEFF",
+        "sort_icon": true
+      }
+      ,
+      {
+        "id": "galaxy",
+        "name": "Galaxy",
+        "number_demo": 1,
+        "number_icon": 50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#EAC6FF",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "nature",
+    "name": "Nature",
+    "packs": [
+      {
+        "id": "vintage3",
+        "name": "Vintage 3",
+        "number_demo": 2,
+        "number_icon":  50,
+        "number_image": 0,
+        "number_wallpaper": 2,
+        "color": "#FFF1D6",
+        "sort_icon": true
+      }
+      ,
+      {
+        "id": "vintage4",
+        "name": "Vintage 4",
+        "number_demo": 1,
+        "number_icon": 50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#E1F6FF",
+        "sort_icon": true
+      }
+    ]
   }
 ]
