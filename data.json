@@ -295,10 +295,10 @@
       {
         "id": "vintage3",
         "name": "Vintage 3",
-        "number_demo": 2,
+        "number_demo": 1,
         "number_icon":  50,
         "number_image": 0,
-        "number_wallpaper": 2,
+        "number_wallpaper": 1,
         "color": "#FFF1D6",
         "sort_icon": true
       }
@@ -306,10 +306,10 @@
       {
         "id": "vintage4",
         "name": "Vintage 4",
-        "number_demo": 1,
+        "number_demo": 2,
         "number_icon": 50,
         "number_image": 0,
-        "number_wallpaper": 1,
+        "number_wallpaper": 2,
         "color": "#E1F6FF",
         "sort_icon": true
       }
