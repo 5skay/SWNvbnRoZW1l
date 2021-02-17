@@ -4,53 +4,53 @@
     "name": "Colorful",
     "packs": [
       {
-        "id": "gradient",
-        "name": "Gradient",
-        "number_demo": 3,
+        "id": "strip",
+        "name": "Strip",
+        "number_demo": 1,
         "number_icon": 50,
         "number_image": 0,
         "number_wallpaper": 1,
-        "color": "#D3EED9",
+        "color": "#E0E8FF",
         "sort_icon": false
       },
       {
         "id": "drops",
         "name": "Drops",
-        "number_demo": 3,
-        "number_icon": 24,
+        "number_demo": 1,
+        "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#E1FAFF",
+        "number_wallpaper": 1,
+        "color": "#F4B3FF",
         "sort_icon": false
       },
       {
         "id": "polygon",
         "name": "Polygon",
-        "number_demo": 3,
-        "number_icon": 22,
+        "number_demo": 1,
+        "number_icon": 25,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#FFEFAA",
+        "number_wallpaper": 1,
+        "color": "#FFCDAF",
         "sort_icon": false
       },
       {
         "id": "brush",
         "name": "Brush",
-        "number_demo": 3,
-        "number_icon": 18,
+        "number_demo": 1,
+        "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#DADADA",
+        "number_wallpaper": 1,
+        "color": "#D0F7FF",
         "sort_icon": false
       },
       {
         "id": "brushstrokes",
         "name": "Brush Strokes",
-        "number_demo": 3,
+        "number_demo": 1,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#FFFAE1",
+        "number_wallpaper": 1,
+        "color": "#FFE1E2",
         "sort_icon": true
       }
     ]
