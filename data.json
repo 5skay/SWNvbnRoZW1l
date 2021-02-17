@@ -496,8 +496,8 @@
     "name": "Trend",
     "packs": [
       {
-        "id": "neon",
-        "name": "Neon",
+        "id": "neon2",
+        "name": "Neon 2",
         "number_demo": 3,
         "number_icon": 22,
         "number_image": 0,
@@ -582,8 +582,8 @@
         "sort_icon": true
       },
       {
-        "id": "catoon",
-        "name": "Catoon",
+        "id": "catoon3",
+        "name": "Catoon 3",
         "number_demo": 4,
         "number_icon": 22,
         "number_image": 0,
