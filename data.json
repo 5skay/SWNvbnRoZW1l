@@ -414,5 +414,265 @@
         "sort_icon": true
       }
     ]
+  },
+  {
+    "category_id": "merry_christmas",
+    "name": "Merry Christmas",
+    "packs": [
+      {
+        "id": "noel1",
+        "name": "Noel 1",
+        "number_demo": 3,
+        "number_icon": 25,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#D3EED9",
+        "sort_icon": false
+      },
+      {
+        "id": "noel2",
+        "name": "Noel 2",
+        "number_demo": 3,
+        "number_icon": 24,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#E1FAFF",
+        "sort_icon": false
+      },
+      {
+        "id": "noel3",
+        "name": "Noel 3",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFEFAA",
+        "sort_icon": false
+      },
+      {
+        "id": "noel4",
+        "name": "Noel 4",
+        "number_demo": 3,
+        "number_icon": 18,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#DADADA",
+        "sort_icon": false
+      },
+      {
+        "id": "noel5",
+        "name": "Noel 5",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFFAE1",
+        "sort_icon": true
+      },
+      {
+        "id": "noel6",
+        "name": "Noel 6",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#D3EED9",
+        "sort_icon": true
+      },
+      {
+        "id": "noel7",
+        "name": "Noel 7",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#D0DDFF",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "trend",
+    "name": "Trend",
+    "packs": [
+      {
+        "id": "neon",
+        "name": "Neon",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#EEE1FF",
+        "sort_icon": true
+      },
+      {
+        "id": "brown",
+        "name": "Brown",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFECE8",
+        "sort_icon": true
+      },
+      {
+        "id": "classic",
+        "name": "Classic",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFE0E0",
+        "sort_icon": true
+      },
+      {
+        "id": "gold",
+        "name": "Gold",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFE0E0",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "new",
+    "name": "New",
+    "packs": [
+      {
+        "id": "twinkle1",
+        "name": "Twinkle 1",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#E8F7FF",
+        "sort_icon": true
+      },
+      {
+        "id": "twinkle2",
+        "name": "Twinkle 2",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#F4EAFF",
+        "sort_icon": true
+      },
+      {
+        "id": "metal",
+        "name": "Metal",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#DADADA",
+        "sort_icon": true
+      },
+      {
+        "id": "cold",
+        "name": "Cold Theme",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#E1F1FF",
+        "sort_icon": true
+      },
+      {
+        "id": "catoon",
+        "name": "Catoon",
+        "number_demo": 4,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 4,
+        "color": "#D0DDFF",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "halloween",
+    "name": "Halloween",
+    "packs": [
+      {
+        "id": "halloween1",
+        "name": "Halloween 1",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFF6DE",
+        "sort_icon": true
+      },
+      {
+        "id": "halloween2",
+        "name": "Halloween 2",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD5AF",
+        "sort_icon": true
+      },
+      {
+        "id": "halloween3",
+        "name": "Halloween 3",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFECBD",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "natute",
+    "name": "Nature",
+    "packs": [
+      {
+        "id": "vitage1",
+        "name": "Vitage 1",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFECE2",
+        "sort_icon": true
+      },
+      {
+        "id": "vitage3",
+        "name": "Vitage 2",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFFAE1",
+        "sort_icon": true
+      },
+      {
+        "id": "stone1",
+        "name": "Stone 1",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#D3EED9",
+        "sort_icon": true
+      },
+      {
+        "id": "stone2",
+        "name": "Stone 2",
+        "number_demo": 3,
+        "number_icon": 22,
+        "number_image": 0,
+        "number_wallpaper": 3,
+        "color": "#FFD79B",
+        "sort_icon": true
+      }
+    ]
   }
 ]
