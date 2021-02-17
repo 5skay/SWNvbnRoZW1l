@@ -70,7 +70,7 @@
         "sort_icon": true
       },
       {
-        "id": "blackpink",
+        "id": "blackping",
         "name": "Black Pink",
         "number_demo": 1,
         "number_icon": 48,
@@ -174,42 +174,42 @@
       {
         "id": "abstract",
         "name": "Abstract",
-        "number_demo": 3,
-        "number_icon": 22,
+        "number_demo": 2,
+        "number_icon": 48,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#FFF6DE",
+        "number_wallpaper": 2,
+        "color": "#E6E2FF",
         "sort_icon": true
       },
       {
         "id": "modern",
         "name": "Modern",
         "number_demo": 3,
-        "number_icon": 22,
+        "number_icon": 49,
         "number_image": 0,
         "number_wallpaper": 3,
-        "color": "#FFD5AF",
+        "color": "#FFD3CA",
         "sort_icon": true
       },
       {
         "id": "triangle",
         "name": "Triangle",
-        "number_demo": 3,
+        "number_demo": 1,
         "number_icon": 22,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#FFECBD",
+        "number_wallpaper": 1,
+        "color": "#ECD4FF",
         "sort_icon": true
       }
       ,
       {
         "id": "softblue",
         "name": "Soft Blue",
-        "number_demo": 3,
-        "number_icon": 22,
+        "number_demo": 1,
+        "number_icon": 25,
         "number_image": 0,
-        "number_wallpaper": 3,
-        "color": "#FFECBD",
+        "number_wallpaper": 1,
+        "color": "#E7DCFF",
         "sort_icon": true
       }
     ]
