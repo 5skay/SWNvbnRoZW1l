@@ -314,5 +314,105 @@
         "sort_icon": true
       }
     ]
+  },
+  {
+    "category_id": "3d",
+    "name": "3D",
+    "packs": [
+      {
+        "id": "3dgradelevel",
+        "name": "3D Grade Level",
+        "number_demo": 1,
+        "number_icon":  24,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#EFFFFB",
+        "sort_icon": true
+      }
+      ,
+      {
+        "id": "3dballoons",
+        "name": "3D Balloons",
+        "number_demo": 1,
+        "number_icon": 30,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#CFFFDF",
+        "sort_icon": true
+      },
+      {
+        "id": "3dclay",
+        "name": "3D Clay",
+        "number_demo": 1,
+        "number_icon":  42,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#FFF5B8",
+        "sort_icon": true
+      }
+      ,
+      {
+        "id": "3dbutton",
+        "name": "3D Button",
+        "number_demo": 1,
+        "number_icon": 50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#E3E2FF",
+        "sort_icon": true
+      },
+      {
+        "id": "3dneumorphism",
+        "name": "3D Neumorphism",
+        "number_demo": 1,
+        "number_icon": 50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#FFF7B5",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "classic",
+    "name": "Classic",
+    "packs": [
+      {
+        "id": "norma",
+        "name": "Norma",
+        "number_demo": 1,
+        "number_icon":  30,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#FFF393",
+        "sort_icon": true
+      }
+    ]
+  },
+  {
+    "category_id": "noel",
+    "name": "NOEL",
+    "packs": [
+      {
+        "id": "noel8",
+        "name": "Noel 8",
+        "number_demo": 1,
+        "number_icon":  50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#FFCDD7",
+        "sort_icon": true
+      },
+      {
+        "id": "noel9",
+        "name": "Noel 9",
+        "number_demo": 1,
+        "number_icon":  50,
+        "number_image": 0,
+        "number_wallpaper": 1,
+        "color": "#D2FFE2",
+        "sort_icon": true
+      }
+    ]
   }
 ]
